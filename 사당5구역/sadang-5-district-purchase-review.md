@@ -2,6 +2,7 @@
 
 > 작성일: 2026-07-14  
 > 보강일: 2026-07-15  
+> 현황 업데이트: 2026-07-21 — [사당5구역 현재 진행상황](./sadang-5-current-status-2026-07-21.md)  
 > 대상: 사당5주택재건축정비사업구역 내 다세대주택 매수 검토  
 > 원문 대화 로그: [sadang-5-district-chat-log.md](./sadang-5-district-chat-log.md)
 
